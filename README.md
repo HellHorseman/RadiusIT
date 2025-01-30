@@ -25,3 +25,7 @@ dataSource.setPassword("your_password");
 dataSource.setUrl("jdbc:postgresql://localhost:5432/radius");
 dataSource.setUsername("Radius");
 dataSource.setPassword("12345");
+
+Собрать и запустить проект:
+mvn clean install
+mvn exec:java
