@@ -11,7 +11,7 @@ PostgreSQL (установлен и запущен сервер базы дан�
 
 Шаги для запуска
 Клонировать репозиторий:
-git clone https://github.com/HellHorseman/RadiusIT/camel-postgresql-demo.git
+git clone https://github.com/HellHorseman/RadiusIT
 cd camel-postgresql-demo
 
 Настроить соединение с базой данных:
